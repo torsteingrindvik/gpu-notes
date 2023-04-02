@@ -1,0 +1,1 @@
+Standard RGB color space.

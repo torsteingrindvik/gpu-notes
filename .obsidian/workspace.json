@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "f4cd761601f536ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7bf8b4ba1c841c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebad4e32866c2054",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40f8e9d422d3a960",
+    "type": "split",
+    "children": [
+      {
+        "id": "a64c44fc0dc7ded7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ebde1c1185b308f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce1d9a1093ad6fbd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45bfee157fd26c69",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 578.5026054382324
+  },
+  "right": {
+    "id": "b3865b36b7541c75",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc533fd4549493a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f8070165d94f196",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b4703a9041dbc55",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e784edb4d84b2f20",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eec5fa767563db8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ebad4e32866c2054",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "README.md",
+    "Lighting/Fog/Density, elevation based.md",
+    "Theory/Atmospheric Scattering.md",
+    "Lighting/Fog/Simple.md",
+    "Math/pow.md",
+    "Theory",
+    "Media/Images/graphtoy_pow.png",
+    "Math/Pasted image 20230402135834.png",
+    "Media/Images/math_insight_dot_product.png",
+    "Lighting/Colors/Gamma.md",
+    "Math/dot.md",
+    "Media/Images/graphtoy_simple_fog_iq_fog_amount.png",
+    "Media/Images/graphtoy_simple_fog_variant.png",
+    "Media/Images/learn_opengl_gamma_double_correction.png",
+    "Math/Mix.md",
+    "Media/Images/graphtoy_simple_fog.png",
+    "Rain.md",
+    "Math/Noise/Random 1-1.md",
+    "Math/Noise",
+    "Math/floor.md",
+    "Domain warping/Repetition.md",
+    "Media/Images/graphtoy_repetition.png",
+    "SDFs/Operations/Union.md",
+    "Math/Rotation/2D.md",
+    "Domain warping/Tunnel.md",
+    "Math/Rotation",
+    "Media/Images/nusan_fx_rainy_bridge.png",
+    "Videos/nusan_fx/Rainy Bridge.md",
+    "Videos/nusan_fx.md",
+    "Videos/nusan_fx",
+    "Videos",
+    "Media/Images/john_novak_incorrect_gamma_gradients.png",
+    "Lighting/Colors/sRGB.md",
+    "Lighting/Ambient Occlusion",
+    "Lighting/Fog",
+    "Math/Derivatives/Continuity/C_0.md",
+    "Math/Derivatives/Continuity",
+    "Math/Derivatives",
+    "Media/Images",
+    "Ray marching.md",
+    "Math/Normals.md",
+    "SDFs/Shapes/Box.md",
+    "SDFs/Shapes/Sphere.md",
+    "Math/smin.md",
+    "Math/smax.md",
+    "Untitled 1.canvas"
+  ]
+}
