@@ -8,14 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ebad4e32866c2054",
+            "id": "94df3efe9d0a8427",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Math/smax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab6c2f1492d0fc36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/max.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72bf6b0d71163bf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/pow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7060b422f929e7e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shader References/Subsurface Scattering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6aac27e7df464dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shader Tricks/Vignette.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Shader References/Subsurface Scattering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Shader References/Subsurface Scattering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Shader References/Subsurface Scattering.md"
+              }
             }
           }
         ]
@@ -135,57 +192,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ebad4e32866c2054",
+  "active": "7060b422f929e7e7",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "README.md",
-    "Lighting/Fog/Density, elevation based.md",
-    "Theory/Atmospheric Scattering.md",
-    "Lighting/Fog/Simple.md",
     "Math/pow.md",
+    "Shader References/Subsurface Scattering.md",
+    "Media/Images/graphtoy_pow_sinewave.png",
+    "Math/atan.md",
+    "Shader Tricks/Fighting Artifacts.md",
+    "Math/max.md",
+    "Shader References/Greek Temple.md",
+    "Math/smax.md",
+    "Math/dot.md",
+    "Shader Tricks/Depth of Field.md",
+    "Shader Tricks/Vignette.md",
+    "Shader References/Selfie Girl.md",
+    "Shader Tricks/Motion Blur.md",
+    "Shader Tricks/Anti aliasing.md",
+    "Shader Tricks",
+    "Shader References/Motion blur.md",
+    "Shader References/Ellipsoid - distance.md",
+    "Camera.md",
+    "Math/cross.md",
+    "UVs.md",
+    "Shader References/Rain.md",
+    "SDFs/Signed Distance Functions.md",
+    "Ray marching.md",
+    "SDFs/Shapes/Sphere.md",
+    "SDFs/Shapes/Box.md",
+    "Math/smin.md",
+    "Shader References/Happy Jumping.md",
+    "README.md",
+    "Shader References",
+    "Untitled.canvas",
     "Theory",
     "Media/Images/graphtoy_pow.png",
     "Math/Pasted image 20230402135834.png",
     "Media/Images/math_insight_dot_product.png",
-    "Lighting/Colors/Gamma.md",
-    "Math/dot.md",
     "Media/Images/graphtoy_simple_fog_iq_fog_amount.png",
     "Media/Images/graphtoy_simple_fog_variant.png",
     "Media/Images/learn_opengl_gamma_double_correction.png",
-    "Math/Mix.md",
     "Media/Images/graphtoy_simple_fog.png",
-    "Rain.md",
-    "Math/Noise/Random 1-1.md",
     "Math/Noise",
-    "Math/floor.md",
-    "Domain warping/Repetition.md",
     "Media/Images/graphtoy_repetition.png",
-    "SDFs/Operations/Union.md",
-    "Math/Rotation/2D.md",
-    "Domain warping/Tunnel.md",
     "Math/Rotation",
     "Media/Images/nusan_fx_rainy_bridge.png",
-    "Videos/nusan_fx/Rainy Bridge.md",
-    "Videos/nusan_fx.md",
     "Videos/nusan_fx",
     "Videos",
-    "Media/Images/john_novak_incorrect_gamma_gradients.png",
-    "Lighting/Colors/sRGB.md",
     "Lighting/Ambient Occlusion",
     "Lighting/Fog",
-    "Math/Derivatives/Continuity/C_0.md",
     "Math/Derivatives/Continuity",
-    "Math/Derivatives",
-    "Media/Images",
-    "Ray marching.md",
-    "Math/Normals.md",
-    "SDFs/Shapes/Box.md",
-    "SDFs/Shapes/Sphere.md",
-    "Math/smin.md",
-    "Math/smax.md",
     "Untitled 1.canvas"
   ]
 }
