@@ -3,7 +3,7 @@
 This one uses uses the time and the vertical coordinate to scroll the rain.
 
 The input point is multiplied by a large factor in order to have lots of rain.
-The horizontal axis' id ([[Floor]]) is used as an input to [[Random 1-1]] in order to get a random vertical offset.
+The horizontal axis' id ([[Floor]]) is used as an input to a hash (see [[Pseudorandom]]) in order to get a random vertical offset.
 
 
 ```

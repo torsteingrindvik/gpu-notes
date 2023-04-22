@@ -1,4 +1,3 @@
-![[wikipedia_gamma_correction.png]]
 
 
 
@@ -27,6 +26,8 @@ If we don't do this at the very end, any subsequent calculation (that assumes li
 
 How can we spot missing gamma correction?
 
+https://www.shadertoy.com/view/7tKXWR <-- this has a good quick shader we can try ourselves.
+
 ![[learn_opengl_missing_gamma_correction.png]]
 
 Note the general darker feel of the left part, and that dark areas are hard to see details in.
@@ -43,6 +44,7 @@ The wrong image (right side) shows what happens when alpha blending is performed
 ![[john_novak_incorrect_gamma_gradients.png]]
 Here the bottom is gradients in sRGB, wrong.
 Top is correct.
+
 
 ## Double correction
 

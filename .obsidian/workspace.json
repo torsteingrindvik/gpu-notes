@@ -4,71 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d7bf8b4ba1c841c2",
+        "id": "17d2baf42bf33d79",
         "type": "tabs",
         "children": [
           {
-            "id": "94df3efe9d0a8427",
+            "id": "f07d0ed5d45790fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/smax.md",
+                "file": "Lighting/Colors/Gamma.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ab6c2f1492d0fc36",
+            "id": "f45fde1766e2dc9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/max.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72bf6b0d71163bf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/pow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7060b422f929e7e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shader References/Subsurface Scattering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6aac27e7df464dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shader Tricks/Vignette.md",
+                "file": "Shader Tricks/Anti aliasing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Random",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shader References/Subsurface Scattering.md",
+                "file": "Shader Tricks/Anti aliasing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shader References/Subsurface Scattering.md",
+                "file": "Shader Tricks/Anti aliasing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shader References/Subsurface Scattering.md"
+                "file": "Shader Tricks/Anti aliasing.md"
               }
             }
           }
@@ -196,36 +160,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7060b422f929e7e7",
+  "active": "f45fde1766e2dc9b",
   "lastOpenFiles": [
-    "Math/pow.md",
+    "Shader Tricks/Banding.md",
+    "Lighting/Colors/Gamma.md",
+    "Shader References/Kevin Roast - waves5.md",
+    "Lighting/Colors/Fresnel.md",
+    "Lighting/Colors/Specular.md",
+    "Media/Images/fresnel_ground_up.png",
+    "nrk.no.md",
+    "Lighting/Fog/Simple.md",
+    "Lighting/Fog/Density, elevation based.md",
+    "Lighting/Colors/HDR.md",
+    "Shader References/Happy Jumping.md",
+    "Math/Interpolants.md",
+    "Shader Tricks/Anti aliasing.md",
+    "Math/Derivatives/Continuity/C_2.md",
+    "Math/Noise/Perlin.md",
+    "Math/Noise/Pseudorandom.md",
+    "Shader References/Rain.md",
+    "Math/Noise/fBM.md",
+    "Math/Normals.md",
+    "Math/Noise/Gradient Noise.md",
+    "Math/Noise/Random 1-1.md",
+    "Math/Noise/Value Noise.md",
+    "Math/Noise/2D smooth noise.md",
+    "Math/Derivatives/Continuity/C_1.md",
+    "Math/Derivatives/Continuity/C_0.md",
+    "Media/Images/graphtoy_quintic_interpolant.png",
+    "Media/Images/graphtoy_cubic_interpolant.png",
+    "Math/smoothstep.md",
     "Shader References/Subsurface Scattering.md",
     "Media/Images/graphtoy_pow_sinewave.png",
-    "Math/atan.md",
-    "Shader Tricks/Fighting Artifacts.md",
-    "Math/max.md",
-    "Shader References/Greek Temple.md",
-    "Math/smax.md",
-    "Math/dot.md",
-    "Shader Tricks/Depth of Field.md",
-    "Shader Tricks/Vignette.md",
-    "Shader References/Selfie Girl.md",
-    "Shader Tricks/Motion Blur.md",
-    "Shader Tricks/Anti aliasing.md",
     "Shader Tricks",
-    "Shader References/Motion blur.md",
-    "Shader References/Ellipsoid - distance.md",
-    "Camera.md",
-    "Math/cross.md",
-    "UVs.md",
-    "Shader References/Rain.md",
-    "SDFs/Signed Distance Functions.md",
-    "Ray marching.md",
-    "SDFs/Shapes/Sphere.md",
-    "SDFs/Shapes/Box.md",
-    "Math/smin.md",
-    "Shader References/Happy Jumping.md",
-    "README.md",
     "Shader References",
     "Untitled.canvas",
     "Theory",
@@ -235,11 +202,8 @@
     "Media/Images/graphtoy_simple_fog_iq_fog_amount.png",
     "Media/Images/graphtoy_simple_fog_variant.png",
     "Media/Images/learn_opengl_gamma_double_correction.png",
-    "Media/Images/graphtoy_simple_fog.png",
     "Math/Noise",
-    "Media/Images/graphtoy_repetition.png",
     "Math/Rotation",
-    "Media/Images/nusan_fx_rainy_bridge.png",
     "Videos/nusan_fx",
     "Videos",
     "Lighting/Ambient Occlusion",

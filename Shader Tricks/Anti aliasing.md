@@ -44,6 +44,7 @@ For example let's say AA = 2:
 | 2   | 2   | vec2(0.5, 0.5)                 |
 
 So here we can see that this spans a 3x3 grid over the two coordinates.
+Note that this grid has a width (and height) totalling one whole pixel.
 
 
 Step 2 does the normal trick of normalizing the [[UVs]] to the (-1, 1) range, but offsets the pixel in such a way that we end up sampling at fragment's coordinate center, and the eight pixels around it as well.
