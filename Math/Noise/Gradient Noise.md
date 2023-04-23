@@ -1,4 +1,4 @@
-At grid points (i.e. integer coordinates) places vectors pointing in some pseudo-random direction ([[Pseudorandom#2D]]).
+At grid points (i.e. integer coordinates) places vectors pointing in some pseudo-random direction ([[Hashes#2D]]).
 
 A sample point within a grid would dot itself and the random corner gradients.
 

@@ -8,7 +8,7 @@ Nice looking water and code looks to be simplified well.
 ## Function `Hash`
 
 Seems to be a standard 1D->1D hash in range 0..1.
-See [[Pseudorandom]].
+See [[Hashes]].
 
 
 ## Function `Noise`

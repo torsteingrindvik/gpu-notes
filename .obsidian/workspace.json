@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "17d2baf42bf33d79",
+        "id": "61e13c521c0557f5",
         "type": "tabs",
         "children": [
           {
-            "id": "f07d0ed5d45790fd",
+            "id": "36256f2fdaa1795e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lighting/Colors/Gamma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f45fde1766e2dc9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shader Tricks/Anti aliasing.md",
+                "file": "Shader References/RetroVision (Revision 2023).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shader Tricks/Anti aliasing.md",
+                "file": "Shader References/RetroVision (Revision 2023).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shader Tricks/Anti aliasing.md",
+                "file": "Shader References/RetroVision (Revision 2023).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shader Tricks/Anti aliasing.md"
+                "file": "Shader References/RetroVision (Revision 2023).md"
               }
             }
           }
@@ -160,10 +147,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f45fde1766e2dc9b",
+  "active": "36256f2fdaa1795e",
   "lastOpenFiles": [
-    "Shader Tricks/Banding.md",
+    "Math/Range remapping.md",
+    "Math/saturate.md",
+    "Shader References/RetroVision (Revision 2023).md",
+    "Math/Noise/fBM.md",
+    "Math/Noise/Hashes.md",
+    "Math/Noise/Value Noise.md",
+    "Math/Noise/Perlin.md",
+    "Math/Noise/Gradient Noise.md",
+    "Math/Noise/2D smooth noise.md",
     "Lighting/Colors/Gamma.md",
+    "Shader Tricks/Anti aliasing.md",
+    "Shader Tricks/Banding.md",
     "Shader References/Kevin Roast - waves5.md",
     "Lighting/Colors/Fresnel.md",
     "Lighting/Colors/Specular.md",
@@ -174,23 +171,13 @@
     "Lighting/Colors/HDR.md",
     "Shader References/Happy Jumping.md",
     "Math/Interpolants.md",
-    "Shader Tricks/Anti aliasing.md",
     "Math/Derivatives/Continuity/C_2.md",
-    "Math/Noise/Perlin.md",
-    "Math/Noise/Pseudorandom.md",
     "Shader References/Rain.md",
-    "Math/Noise/fBM.md",
     "Math/Normals.md",
-    "Math/Noise/Gradient Noise.md",
     "Math/Noise/Random 1-1.md",
-    "Math/Noise/Value Noise.md",
-    "Math/Noise/2D smooth noise.md",
     "Math/Derivatives/Continuity/C_1.md",
-    "Math/Derivatives/Continuity/C_0.md",
     "Media/Images/graphtoy_quintic_interpolant.png",
     "Media/Images/graphtoy_cubic_interpolant.png",
-    "Math/smoothstep.md",
-    "Shader References/Subsurface Scattering.md",
     "Media/Images/graphtoy_pow_sinewave.png",
     "Shader Tricks",
     "Shader References",
