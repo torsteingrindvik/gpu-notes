@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "61e13c521c0557f5",
+        "id": "37b961b9e30e96da",
         "type": "tabs",
         "children": [
           {
-            "id": "36256f2fdaa1795e",
+            "id": "10a3589c1a82ee91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shader References/RetroVision (Revision 2023).md",
+                "file": "Shader References/Primitives.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,12 +64,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c1116a9fda6dfd09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 578.5026054382324
+    "width": 404.5
   },
   "right": {
     "id": "b3865b36b7541c75",
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shader References/RetroVision (Revision 2023).md",
+                "file": "Shader References/Primitives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shader References/RetroVision (Revision 2023).md",
+                "file": "Shader References/Primitives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shader References/RetroVision (Revision 2023).md"
+                "file": "Shader References/Primitives.md"
               }
             }
           }
@@ -147,55 +155,55 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "36256f2fdaa1795e",
+  "active": "10a3589c1a82ee91",
   "lastOpenFiles": [
+    "Shader References/Pasted image 20230507223311.png",
+    "Shader References/Pasted image 20230507223017.png",
+    "Shader References/Pasted image 20230507222737.png",
+    "Shader References/Pasted image 20230507222724.png",
+    "Media/Images/Primitives/primitives_fresnel.png",
+    "Media/Images/Primitives/primitives_fresnel_rd_x_abs.png",
+    "Shader References/Primitives.md",
+    "Lighting/Colors/Fresnel.md",
+    "Media/Images/Primitives/primitives_ss_spe.png",
+    "Media/Images/Primitives/primitives_ss_hmm.png",
+    "Media/Images/Primitives/primitives_ss.png",
+    "Media/Images/Primitives/primitives_back_back.png",
+    "Media/Images/Primitives/primitives_back_col.png",
+    "Pasted image 20230507134430.png.md",
+    "Shader Tricks/Soft Shadows.md",
+    "Media/Images/Primitives",
+    "Lighting/Ambient Occlusion/Regular Ambient Occlusion.md",
+    "Lighting/Colors/Contrast.md",
+    "Shader References/Kevin Roast - waves5.md",
+    "Math/Rotation/2D.md",
+    "Mistakes.md",
+    "Lighting/Colors/Specular.md",
+    "Media/Images/Mistakes",
+    "Shader References/Tilable Water Caustic.md",
+    "Math/Bezier/Bezier curves.md",
+    "Shader References/Snail.md",
+    "Math/Bezier",
+    "Shader References/Woods.md",
+    "Math/pow.md",
+    "Math/Interpolants.md",
+    "Shader Tricks/Clamp vs Tonemap.md",
+    "Shader References/Perspex Web Lattice.md",
+    "Math/Noise/Hashes.md",
+    "Math/Noise/fBM.md",
+    "Shader References/RetroVision (Revision 2023).md",
     "Math/Range remapping.md",
     "Math/saturate.md",
-    "Shader References/RetroVision (Revision 2023).md",
-    "Math/Noise/fBM.md",
-    "Math/Noise/Hashes.md",
     "Math/Noise/Value Noise.md",
     "Math/Noise/Perlin.md",
-    "Math/Noise/Gradient Noise.md",
-    "Math/Noise/2D smooth noise.md",
-    "Lighting/Colors/Gamma.md",
-    "Shader Tricks/Anti aliasing.md",
-    "Shader Tricks/Banding.md",
-    "Shader References/Kevin Roast - waves5.md",
-    "Lighting/Colors/Fresnel.md",
-    "Lighting/Colors/Specular.md",
-    "Media/Images/fresnel_ground_up.png",
-    "nrk.no.md",
-    "Lighting/Fog/Simple.md",
-    "Lighting/Fog/Density, elevation based.md",
-    "Lighting/Colors/HDR.md",
-    "Shader References/Happy Jumping.md",
-    "Math/Interpolants.md",
-    "Math/Derivatives/Continuity/C_2.md",
-    "Shader References/Rain.md",
-    "Math/Normals.md",
-    "Math/Noise/Random 1-1.md",
-    "Math/Derivatives/Continuity/C_1.md",
-    "Media/Images/graphtoy_quintic_interpolant.png",
-    "Media/Images/graphtoy_cubic_interpolant.png",
-    "Media/Images/graphtoy_pow_sinewave.png",
     "Shader Tricks",
     "Shader References",
     "Untitled.canvas",
     "Theory",
-    "Media/Images/graphtoy_pow.png",
-    "Math/Pasted image 20230402135834.png",
-    "Media/Images/math_insight_dot_product.png",
-    "Media/Images/graphtoy_simple_fog_iq_fog_amount.png",
-    "Media/Images/graphtoy_simple_fog_variant.png",
-    "Media/Images/learn_opengl_gamma_double_correction.png",
     "Math/Noise",
     "Math/Rotation",
     "Videos/nusan_fx",
     "Videos",
-    "Lighting/Ambient Occlusion",
-    "Lighting/Fog",
-    "Math/Derivatives/Continuity",
     "Untitled 1.canvas"
   ]
 }

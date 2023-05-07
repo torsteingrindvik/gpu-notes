@@ -40,6 +40,8 @@ Has an interesting idea where the first two octaves use both [[Value Noise]] and
 
 Also all of these ingredients are offset by time at varying rates, and the input coordinate is rotated [[2D]] each iteration.
 
+[[Contrast]]
+
 ## Function `Dist`
 
 A single line, but very interesting!
