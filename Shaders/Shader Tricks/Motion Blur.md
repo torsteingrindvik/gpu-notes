@@ -1,4 +1,4 @@
-Reference: [[Shader References/Motion blur]]
+Reference: [[Shaders/Shader References/Motion blur]]
 
 # Strategy
 

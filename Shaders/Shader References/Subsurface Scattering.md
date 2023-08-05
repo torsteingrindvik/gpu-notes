@@ -32,7 +32,7 @@ So `l` is in effect the light colour times the visbility.
 
 `fresnel` is based on `dot(view, norm)`. This term normally makes areas close to edges dark, because those areas tend to have normals that face away from us (the viewer).
 Since it is inverted by `1.0 - dot(view, norm)` we instead get a highlight.
-The highlight is pushed closer to edges via [[Pow]]- remember that the higher the last param given to pow, the longer a signal stays off, then ramps up towards the end (i.e. edges, or surfaces facing away from the viewer).
+The highlight is pushed closer to edges via [[pow]]- remember that the higher the last param given to pow, the longer a signal stays off, then ramps up towards the end (i.e. edges, or surfaces facing away from the viewer).
 
 Then we have `fresnel = mix(0.01, 1.0, min(1.0, fresnel))`.
 I think this says is essentially a clamp of the signal between 0.01 and 1.0, ensuring that we always have at least some signal.
